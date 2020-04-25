@@ -12,7 +12,7 @@
 
 #include <arpa/inet.h>
 
-@interface FLTConnectivityPlugin () <FlutterStreamHandler, CLLocationManagerDelegate>
+@interface FLTConnectivityPlugin () <FlutterStreamHandler>
 
 @end
 
